@@ -4,7 +4,8 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("This is the first commit and push");
         System.out.println("merge");
-        System.out.println("conflict")
+        System.out.println("commit 1");
+        System.out.println("conflict");
     }
 }
 
